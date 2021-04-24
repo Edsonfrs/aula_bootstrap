@@ -1,6 +1,6 @@
 # Aula Bootstrap
-Recriando a interface do Netflix
-Desenvolvimento de uma peqqueno site responsivo usando o Bootstrap
+
+Desenvolvimento de uma pequeno site responsivo usando o Bootstrap
 
 ## Badge
 
